@@ -34,9 +34,7 @@ portfolio/
 │
 ├── index.html
 ├── README.md
-└── assets/
-    ├── images/
-    └── icons/
+
 ```
 
 ## 👩‍💻 About Me
