@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built using **HTML5** and **C
 
 ## 🚀 Live Demo
 
-Visit the portfolio: [Portfolio Website]([https://your-portfolio-link.com](https://joyful-blancmange-0fc08c.netlify.app/))
+Visit the portfolio: [Portfolio Website](https://joyful-blancmange-0fc08c.netlify.app/)
 
 ## 📸 Preview
 
